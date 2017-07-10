@@ -1,0 +1,13 @@
+﻿<Window x:Class="VisibilitySample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel Background="#FFA0A0A0">
+            <Button Padding="10" Visibility="Hidden">Button1</Button>
+            <Button Padding="10">Button2</Button>
+            <Button Padding="10" Visibility="Collapsed">Button3</Button>
+            <Button Padding="10">Button4</Button>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\TabControlSample\bin\Debug\TabControlSample.exe.config
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\TabControlSample\bin\Debug\TabControlSample.exe
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\TabControlSample\bin\Debug\TabControlSample.pdb
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\TabControlSample\obj\Debug\MainWindow.baml
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\TabControlSample\obj\Debug\MainWindow.g.cs
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\TabControlSample\obj\Debug\App.g.cs
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\TabControlSample\obj\Debug\TabControlSample_MarkupCompile.cache
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\TabControlSample\obj\Debug\TabControlSample.g.resources
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\TabControlSample\obj\Debug\TabControlSample.Properties.Resources.resources
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\TabControlSample\obj\Debug\TabControlSample.csproj.GenerateResource.Cache
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\TabControlSample\obj\Debug\TabControlSample.exe
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\TabControlSample\obj\Debug\TabControlSample.pdb
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\TabControlSample\obj\Debug\TabControlSample.csprojResolveAssemblyReference.cache
