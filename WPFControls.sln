@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonWithMargin", "ButtonWithMargin\ButtonWithMargin.csproj", "{938539C6-2F58-4EEF-A9E8-13AEF3E3296B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonWithPadding", "ButtonWithPadding\ButtonWithPadding.csproj", "{1A636B2C-A638-493D-AB19-C2AE1CDF2454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabControlSample", "TabControlSample\TabControlSample.csproj", "{72DFF5EF-1BC6-4EEA-ADC7-AF6856B50077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlignmentSample", "AlignmentSample\AlignmentSample.csproj", "{1FFBE8BB-408E-4070-B3E5-848E3296F940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisibilitySample", "VisibilitySample\VisibilitySample.csproj", "{36D91055-F1A7-49B6-AADC-62F9B565946D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSettingsSample", "ColorSettingsSample\ColorSettingsSample.csproj", "{980598BE-AD8C-41A5-B1E5-2506AF0C7506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonSample", "ButtonSample\ButtonSample.csproj", "{24A695B7-6ABB-4511-9C16-5E527161B097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{938539C6-2F58-4EEF-A9E8-13AEF3E3296B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938539C6-2F58-4EEF-A9E8-13AEF3E3296B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938539C6-2F58-4EEF-A9E8-13AEF3E3296B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938539C6-2F58-4EEF-A9E8-13AEF3E3296B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A636B2C-A638-493D-AB19-C2AE1CDF2454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A636B2C-A638-493D-AB19-C2AE1CDF2454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A636B2C-A638-493D-AB19-C2AE1CDF2454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A636B2C-A638-493D-AB19-C2AE1CDF2454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72DFF5EF-1BC6-4EEA-ADC7-AF6856B50077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DFF5EF-1BC6-4EEA-ADC7-AF6856B50077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DFF5EF-1BC6-4EEA-ADC7-AF6856B50077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DFF5EF-1BC6-4EEA-ADC7-AF6856B50077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FFBE8BB-408E-4070-B3E5-848E3296F940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFBE8BB-408E-4070-B3E5-848E3296F940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFBE8BB-408E-4070-B3E5-848E3296F940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFBE8BB-408E-4070-B3E5-848E3296F940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D91055-F1A7-49B6-AADC-62F9B565946D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D91055-F1A7-49B6-AADC-62F9B565946D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D91055-F1A7-49B6-AADC-62F9B565946D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D91055-F1A7-49B6-AADC-62F9B565946D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980598BE-AD8C-41A5-B1E5-2506AF0C7506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980598BE-AD8C-41A5-B1E5-2506AF0C7506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980598BE-AD8C-41A5-B1E5-2506AF0C7506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980598BE-AD8C-41A5-B1E5-2506AF0C7506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A695B7-6ABB-4511-9C16-5E527161B097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A695B7-6ABB-4511-9C16-5E527161B097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A695B7-6ABB-4511-9C16-5E527161B097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A695B7-6ABB-4511-9C16-5E527161B097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ButtonSample\bin\Debug\ButtonSample.exe.config
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ButtonSample\bin\Debug\ButtonSample.exe
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ButtonSample\bin\Debug\ButtonSample.pdb
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ButtonSample\obj\Debug\MainWindow.baml
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ButtonSample\obj\Debug\MainWindow.g.cs
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ButtonSample\obj\Debug\App.g.cs
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ButtonSample\obj\Debug\ButtonSample_MarkupCompile.cache
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ButtonSample\obj\Debug\ButtonSample.g.resources
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ButtonSample\obj\Debug\ButtonSample.Properties.Resources.resources
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ButtonSample\obj\Debug\ButtonSample.csproj.GenerateResource.Cache
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ButtonSample\obj\Debug\ButtonSample.exe
+c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ButtonSample\obj\Debug\ButtonSample.pdb
