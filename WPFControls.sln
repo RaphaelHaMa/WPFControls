@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonWithMargin", "ButtonWithMargin\ButtonWithMargin.csproj", "{938539C6-2F58-4EEF-A9E8-13AEF3E3296B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonWithPadding", "ButtonWithPadding\ButtonWithPadding.csproj", "{1A636B2C-A638-493D-AB19-C2AE1CDF2454}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabControlSample", "TabControlSample\TabControlSample.csproj", "{72DFF5EF-1BC6-4EEA-ADC7-AF6856B50077}"
 EndProject
@@ -27,10 +25,6 @@ Global
 		{938539C6-2F58-4EEF-A9E8-13AEF3E3296B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{938539C6-2F58-4EEF-A9E8-13AEF3E3296B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{938539C6-2F58-4EEF-A9E8-13AEF3E3296B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1A636B2C-A638-493D-AB19-C2AE1CDF2454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1A636B2C-A638-493D-AB19-C2AE1CDF2454}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1A636B2C-A638-493D-AB19-C2AE1CDF2454}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1A636B2C-A638-493D-AB19-C2AE1CDF2454}.Release|Any CPU.Build.0 = Release|Any CPU
 		{72DFF5EF-1BC6-4EEA-ADC7-AF6856B50077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{72DFF5EF-1BC6-4EEA-ADC7-AF6856B50077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72DFF5EF-1BC6-4EEA-ADC7-AF6856B50077}.Release|Any CPU.ActiveCfg = Release|Any CPU
