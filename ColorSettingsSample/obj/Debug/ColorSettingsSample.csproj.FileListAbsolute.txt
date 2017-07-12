@@ -10,3 +10,15 @@ c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ColorSettings
 c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ColorSettingsSample\obj\Debug\ColorSettingsSample.csproj.GenerateResource.Cache
 c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ColorSettingsSample\obj\Debug\ColorSettingsSample.exe
 c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\ColorSettingsSample\obj\Debug\ColorSettingsSample.pdb
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\ColorSettingsSample\bin\Debug\ColorSettingsSample.exe.config
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\ColorSettingsSample\bin\Debug\ColorSettingsSample.exe
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\ColorSettingsSample\bin\Debug\ColorSettingsSample.pdb
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\ColorSettingsSample\obj\Debug\MainWindow.baml
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\ColorSettingsSample\obj\Debug\MainWindow.g.cs
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\ColorSettingsSample\obj\Debug\App.g.cs
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\ColorSettingsSample\obj\Debug\ColorSettingsSample_MarkupCompile.cache
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\ColorSettingsSample\obj\Debug\ColorSettingsSample.g.resources
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\ColorSettingsSample\obj\Debug\ColorSettingsSample.Properties.Resources.resources
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\ColorSettingsSample\obj\Debug\ColorSettingsSample.csproj.GenerateResource.Cache
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\ColorSettingsSample\obj\Debug\ColorSettingsSample.exe
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\ColorSettingsSample\obj\Debug\ColorSettingsSample.pdb

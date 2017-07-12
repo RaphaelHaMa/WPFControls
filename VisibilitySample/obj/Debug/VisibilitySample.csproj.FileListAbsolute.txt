@@ -11,3 +11,16 @@ c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\VisibilitySam
 c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\VisibilitySample\obj\Debug\VisibilitySample.csproj.GenerateResource.Cache
 c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\VisibilitySample\obj\Debug\VisibilitySample.exe
 c:\users\raphael\documents\visual studio 2013\Projects\WPFControls\VisibilitySample\obj\Debug\VisibilitySample.pdb
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\VisibilitySample\bin\Debug\VisibilitySample.exe.config
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\VisibilitySample\bin\Debug\VisibilitySample.exe
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\VisibilitySample\bin\Debug\VisibilitySample.pdb
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\VisibilitySample\obj\Debug\VisibilitySample.csprojResolveAssemblyReference.cache
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\VisibilitySample\obj\Debug\MainWindow.baml
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\VisibilitySample\obj\Debug\MainWindow.g.cs
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\VisibilitySample\obj\Debug\App.g.cs
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\VisibilitySample\obj\Debug\VisibilitySample_MarkupCompile.cache
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\VisibilitySample\obj\Debug\VisibilitySample.g.resources
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\VisibilitySample\obj\Debug\VisibilitySample.Properties.Resources.resources
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\VisibilitySample\obj\Debug\VisibilitySample.csproj.GenerateResource.Cache
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\VisibilitySample\obj\Debug\VisibilitySample.exe
+D:\Dokumente\Visual Studio 2017\Projects\GitHub\WPFControls\VisibilitySample\obj\Debug\VisibilitySample.pdb
